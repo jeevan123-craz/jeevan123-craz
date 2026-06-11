@@ -1,8 +1,8 @@
 # Hi there, I'm Jeevan Kishore! 👋
 
-### 🚀 Full-Stack & IoT Developer
+### 🚀 Software Developer
 
-Welcome to my GitHub profile! I'm passionate about building robust applications ranging from deep learning integrations to mobile apps, and full-stack web applications. I also have a strong background in hardware and IoT, building custom ESP32/Arduino smart devices.
+Welcome to my GitHub profile! I'm passionate about building robust software applications, specializing in full-stack development, mobile apps, and deep learning AI integrations. While my primary focus is software engineering, I also enjoy experimenting with hardware and IoT as side projects.
 
 ---
 
@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm passionate about building robust applications 
 
 Here are some of my top projects that I'm proud of:
 
-* 🤖 **[medguard-ai-enhanced](https://github.com/jeevan123-craz/medguard-ai-enhanced)** - An AI-powered application for medical/security monitoring.
-* 📤 **[share-flow](https://github.com/jeevan123-craz/share-flow)** - A local file-sharing application using QR codes for quick transfers.
 * 📷 **[ai-camera-project](https://github.com/jeevan123-craz/ai-camera-project)** - An AI receptionist and smart camera system.
-* 📡 **[OrbitalSyncAndroid](https://github.com/jeevan123-craz/OrbitalSyncAndroid)** - A mobile application for seamless data synchronization.
+* 🤖 **[medguard-ai-enhanced](https://github.com/jeevan123-craz/medguard-ai-enhanced)** - An AI-powered application for medical/security monitoring.
 * 🤖 **[WhatsApp_AI_Assistant](https://github.com/jeevan123-craz/WhatsApp_AI_Assistant)** - A custom AI-powered bot integrated with WhatsApp.
-* 🔧 **[IoT / ESP32 Projects](https://github.com/jeevan123-craz)** - Several IoT projects including Alexa-integrated servos, Wi-Fi sniffers, and captive portals.
+* 📤 **[share-flow](https://github.com/jeevan123-craz/share-flow)** - A local file-sharing application using QR codes for quick transfers.
+* 📡 **[OrbitalSyncAndroid](https://github.com/jeevan123-craz/OrbitalSyncAndroid)** - A mobile application for seamless data synchronization.
+* 🔧 **[IoT / ESP32 Projects](https://github.com/jeevan123-craz)** - Several small IoT side-projects including Wi-Fi sniffers and captive portals.
 
 ---
 
